@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "watch-and-commit": "node watch-and-commit.js",
+    "dev:watch": "concurrently \"npm run dev\" \"npm run watch-and-commit\""
   },
   "dependencies": {
     "next": "14.2.5",
@@ -19,4 +21,7 @@
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "typ
+    "typescript": "^5",
+    "concurrently": "^8.2.2"
+  }
+}
