@@ -21,5 +21,4 @@
     }
   },
   "include": ["**/*.ts", "**/*.tsx"],
-  "exclude": ["node_modules", "dist", ".next"]
-}
+  "exclude": ["node_module

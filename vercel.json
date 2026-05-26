@@ -11,6 +11,4 @@
     "FIREBASE_PRIVATE_KEY",
     "JWT_SECRET",
     "ADMIN_USERNAME",
-    "ADMIN_PASSWORD"
-  ]
-}
+    "ADMIN_PAS

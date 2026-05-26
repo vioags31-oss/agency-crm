@@ -17,4 +17,4 @@ git push  # Vercel автоматично білдить і деплоїть
 ## Логін
 
 - **Admin**: `admin` / `123456`
-- **Assistant**: `@telegram_username` / `PIN`
+- **Assistant**: `@telegram

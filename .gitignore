@@ -2,5 +2,4 @@ node_modules
 .next
 .env.local
 dist
-.vercel
-"swap-crm-firebase-adminsdk-fbsvc-fa25c5298b.json" 
+.ver
