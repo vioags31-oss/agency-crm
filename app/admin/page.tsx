@@ -92,9 +92,4 @@ export default async function AdminPage() {
               fontWeight: 500,
             }}>
               {stat.label}
-            </div>
-          </div>
-        ))}
-      </div>
-
-      {/* R
+            </di
