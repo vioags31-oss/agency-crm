@@ -1,4 +1,6 @@
 {
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
   "env": [
     "NEXT_PUBLIC_FIREBASE_API_KEY",
     "NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN",
@@ -8,7 +10,4 @@
     "NEXT_PUBLIC_FIREBASE_APP_ID",
     "FIREBASE_PROJECT_ID",
     "FIREBASE_CLIENT_EMAIL",
-    "FIREBASE_PRIVATE_KEY",
-    "JWT_SECRET",
-    "ADMIN_USERNAME",
-    "ADMIN_PAS
+    "FIREBASE_PRIV
