@@ -43,7 +43,7 @@ export default async function AdminPage() {
   return (
     <div>
       <h1 style={{ margin: '0 0 30px 0', fontSize: 32, fontWeight: 700 }}>
-        📊 Дашборд
+        📊 Dashboard - VERCEL TEST
       </h1>
 
       <div style={{
@@ -92,4 +92,9 @@ export default async function AdminPage() {
               fontWeight: 500,
             }}>
               {stat.label}
-            </di
+            </div>
+          </div>
+        ))}
+      </div>
+
+      {/* R
